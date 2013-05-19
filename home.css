@@ -1,0 +1,23 @@
+body {
+	background-image: url('wavegrid.png');
+}
+
+img {
+	width:320;
+	height:240;
+}
+
+#content {
+	width: 75%;
+	float: left;
+}
+
+#sidebar {
+	width: 25%;
+	background-color: grey;
+	float: right;
+}
+
+.clear {
+	clear:both;
+}
